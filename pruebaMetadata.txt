@@ -1,0 +1,26 @@
+# This is a comment
+# Mandatory fields
+License =
+Creator =
+Contributor =
+Creation date =
+Previous version =
+Namespace URI =
+Version IRI =
+Prefix =
+Title =
+Description =
+Citation =
+# Optional fields
+Abstract =
+See also =
+Status =
+Backward compatibility =
+Incompatibility =
+Modification Date =
+Issued date =
+Source =
+Publisher =
+DOI =
+Logo =
+Diagram =
